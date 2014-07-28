@@ -1,0 +1,3 @@
+REVIEWBOARD_URL = "http://gis06499.devcloud.ge.com"
+REPOSITORY = "ReviewBoardTest"
+BRANCH = "master"
